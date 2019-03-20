@@ -1,0 +1,11 @@
+E:\專案\CityState\Resource\Resource\Resource\bin\Debug\netcoreapp2.1\Resource.deps.json
+E:\專案\CityState\Resource\Resource\Resource\bin\Debug\netcoreapp2.1\Resource.runtimeconfig.json
+E:\專案\CityState\Resource\Resource\Resource\bin\Debug\netcoreapp2.1\Resource.runtimeconfig.dev.json
+E:\專案\CityState\Resource\Resource\Resource\bin\Debug\netcoreapp2.1\Resource.dll
+E:\專案\CityState\Resource\Resource\Resource\bin\Debug\netcoreapp2.1\Resource.pdb
+E:\專案\CityState\Resource\Resource\Resource\obj\Debug\netcoreapp2.1\Resource.csprojAssemblyReference.cache
+E:\專案\CityState\Resource\Resource\Resource\obj\Debug\netcoreapp2.1\Resource.csproj.CoreCompileInputs.cache
+E:\專案\CityState\Resource\Resource\Resource\obj\Debug\netcoreapp2.1\Resource.AssemblyInfoInputs.cache
+E:\專案\CityState\Resource\Resource\Resource\obj\Debug\netcoreapp2.1\Resource.AssemblyInfo.cs
+E:\專案\CityState\Resource\Resource\Resource\obj\Debug\netcoreapp2.1\Resource.dll
+E:\專案\CityState\Resource\Resource\Resource\obj\Debug\netcoreapp2.1\Resource.pdb
